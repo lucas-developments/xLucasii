@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lucas
+- 👀 I’m interested in Developments and WebDesign
+- 🌱 I’m currently learning js
+- 💞️ I’m looking to collaborate on FiveM Servers
+- 📫 How to reach me: join: https://dsc.gg/lucas-developments.de
